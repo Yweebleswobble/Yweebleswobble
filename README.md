@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner friendly projects 
 - 📫 How to reach me Twitter/telegram @Yweebles_wobble 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: Most facts are not fun! Truth hurts & most folks avoid it. ♡The More You Know♡
+- ⚡ Fun fact: Most facts are not fun! Truth often hurts & most folks avoid it. ♡The More You Know♡
 
 <!---
 Yweebleswobble/Yweebleswobble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
