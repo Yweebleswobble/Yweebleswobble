@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yweebleswobble
 - 👀 I’m interested in crypto technologies
-- 🌱 I’m currently learning coding 
+- 🌱 I’m currently learning front end coding w html & css
 - 💞️ I’m looking to collaborate on beginner friendly projects 
 - 📫 How to reach me Twitter/telegram @Yweebles_wobble 
 - 😄 Pronouns: he/him 
